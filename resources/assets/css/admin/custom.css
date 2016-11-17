@@ -1,0 +1,58 @@
+.menu_section > ul {
+    margin-top: 30px;
+}
+
+.dropdown-menu > li form button {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    width: 100%;
+    text-align: left;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+    background: none;
+    border: none;
+}
+
+.dropdown-menu > li form button:hover {
+    color: #262626;
+    background: #f5f5f5
+}
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+.large-input {
+    margin-bottom: 50px;
+}
+.large-input, .large-input * {
+    height: 50px;
+    font-size: 20px;
+}
+.replace-it {
+    color: #f44336;
+}
+.error-text {
+    color: #f44336 !important;
+}
+#company-id, #service-price {
+    display: none;
+}
+.no-result {
+    font-size: 20px;
+    color: #f44336 !important;
+    text-align: center;
+}
+.package-service {
+    background-color: #fffbab !important;
+}
+.login-logo img {
+    margin-top: -30px;
+    margin-bottom: 30px;
+}
+.vertical-center {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
